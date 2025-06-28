@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "397935966648",
+    "project_id": "interntask-cc09a",
+    "storage_bucket": "interntask-cc09a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:397935966648:android:21ec5e7cac2a91b3a0b74d",
+        "android_client_info": {
+          "package_name": "com.example.intern_task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEt5zVlmlSWNd78v8o8uAznGCKM4_gB7E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
